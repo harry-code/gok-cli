@@ -1,6 +1,6 @@
 {
   "name": "@gok-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "gok-cli core",
   "author": "harryCode <724869115@qq.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "84d06b19bf26f23573fd6c5a3c51e4318d897948",
+  "gitHead": "84d06b19bf26f23573fd6c5a3c51e4318d897948"
 }

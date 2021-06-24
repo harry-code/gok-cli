@@ -1,0 +1,19 @@
+0 silly argv {
+0 silly argv   _: [ 'publish' ],
+0 silly argv   composed: 'publish',
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': '..\\..\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath C:\Users\harry\Desktop\gok-cli
+3 error JSONError: Unexpected token "}" (0x7D) in JSON at position 471 while parsing near "...a3c51e4318d897948\",\n}\n" in packages\core\package.json
+3 error
+3 error [0m [90m 21 |[39m   }[33m,[39m[0m
+3 error [0m [90m 22 |[39m   [32m"gitHead"[39m[33m:[39m [32m"84d06b19bf26f23573fd6c5a3c51e4318d897948"[39m[33m,[39m[0m
+3 error [0m[31m[1m>[22m[39m[90m 23 |[39m }[0m
+3 error [0m [90m    |[39m [31m[1m^[22m[39m[0m
+3 error [0m [90m 24 |[39m[0m
+3 error
+3 error     at parseJson (C:\Users\harry\Desktop\gok-cli\node_modules\parse-json\index.js:29:21)
+3 error     at parse (C:\Users\harry\Desktop\gok-cli\node_modules\load-json-file\index.js:15:9)
+3 error     at module.exports (C:\Users\harry\Desktop\gok-cli\node_modules\load-json-file\index.js:18:47)
