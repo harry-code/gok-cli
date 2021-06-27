@@ -1,5 +1,5 @@
 {
-  "name": "gok-cli-dev",
+  "name": "gok-cli",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "", 
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "lerna": "^4.0.0"

@@ -19,5 +19,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "dependencies": {
+    "@gok-cli/utils": "file:../../utils/utils"
+  },
   "gitHead": "84d06b19bf26f23573fd6c5a3c51e4318d897948"
 }
